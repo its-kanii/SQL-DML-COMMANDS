@@ -85,7 +85,7 @@ A company needs to:
 1️⃣ Install MySQL/PostgreSQL/SQLite on your system.  
 2️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/its-kanii/SQL-DML-Examples.git
+   git clone https://github.com/its-kanii/SQL-DML-COMMANDS.git
    ```  
 3️⃣ Open your SQL database and execute the scripts.  
 
